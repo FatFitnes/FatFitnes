@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## welcome to my profile! 😁
 
  <div>
    <a href="https://github.com/FatFitnes">
