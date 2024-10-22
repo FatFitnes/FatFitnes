@@ -2,10 +2,9 @@
 
  <div>
    <a href="https://github.com/FatFitnes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FatFitnes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatFitnes&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FatFitnesshow_icons=truetheme=tokyonightinclude_all_commits=truecount_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatFitneslayout=compactlangs_count=6theme=tokyonight"/>
+</div>    
 
 
 <div style="display: inline_block"><br>
