@@ -1,7 +1,11 @@
 ## welcome to my profile! 😁
 
+
+
+
  <div>
-   <a href="https://github.com/FatFitnes">    
+   <a href="https://github.com/FatFitnes"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FatFitnes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatFitnes&layout=compact&langs_count=6&theme=tokyonight"/>
    
